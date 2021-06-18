@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(173, 130, 212, 0.555);
+}
+.heading{
+    background-color: rgba(0, 139, 81, 0.664);
+    color: black;
+    font-size: x-large;
+    width: 30%;
+    font-family: 'Pangolin', cursive;
+}
